@@ -1,0 +1,31 @@
+InvoiceID,Date,Time,Product,Category,Quantity,UnitPrice,Total,PaymentMethod,CustomerID,StoreLocation
+1001,2024-01-01,10:05:00,Apple,Fruit,10,0.5,5.0,Credit Card,C001,North
+1002,2024-01-01,10:15:00,Banana,Fruit,12,0.3,3.6,Debit Card,C002,South
+1003,2024-01-01,10:30:00,Milk,Dairy,5,1.2,6.0,Cash,C003,East
+1004,2024-01-01,11:00:00,Bread,Bakery,7,1.0,7.0,Credit Card,C004,West
+1005,2024-01-02,09:30:00,Chicken,Meat,2,5.0,10.0,Debit Card,C005,North
+1006,2024-01-02,10:00:00,Eggs,Dairy,10,0.2,2.0,Cash,C006,South
+1007,2024-01-02,11:00:00,Orange,Fruit,15,0.6,9.0,Credit Card,C007,East
+1008,2024-01-03,09:45:00,Cheese,Dairy,3,3.0,9.0,Cash,C008,West
+1009,2024-01-03,10:15:00,Tomato,Vegetable,8,0.4,3.2,Debit Card,C009,North
+1010,2024-01-03,10:30:00,Juice,Beverage,6,1.5,9.0,Credit Card,C010,South
+1011,2024-01-04,09:00:00,Butter,Dairy,4,2.0,8.0,Cash,C011,East
+1012,2024-01-04,10:30:00,Steak,Meat,2,8.0,16.0,Debit Card,C012,West
+1013,2024-01-04,11:00:00,Salad,Vegetable,10,1.2,12.0,Credit Card,C013,North
+1014,2024-01-05,09:15:00,Pasta,Grain,5,1.5,7.5,Cash,C014,South
+1015,2024-01-05,10:00:00,Chicken Breast,Meat,3,6.0,18.0,Debit Card,C015,East
+1016,2024-01-05,11:30:00,Yogurt,Dairy,8,0.8,6.4,Credit Card,C016,West
+1017,2024-01-06,09:30:00,Rice,Grain,10,2.0,20.0,Cash,C017,North
+1018,2024-01-06,10:15:00,Apples,Fruit,6,0.5,3.0,Debit Card,C018,South
+1019,2024-01-06,11:00:00,Onions,Vegetable,12,0.4,4.8,Credit Card,C019,East
+1020,2024-01-07,09:00:00,Sausage,Meat,4,4.0,16.0,Cash,C020,West
+1021,2024-01-07,10:30:00,Spinach,Vegetable,7,1.0,7.0,Debit Card,C021,North
+1022,2024-01-07,11:00:00,Milk,Dairy,8,1.2,9.6,Credit Card,C022,South
+1023,2024-01-08,09:45:00,Baguette,Bakery,3,1.5,4.5,Cash,C023,East
+1024,2024-01-08,10:15:00,Peanut Butter,Pantry,2,3.0,6.0,Debit Card,C024,West
+1025,2024-01-08,11:00:00,Orange Juice,Beverage,4,2.0,8.0,Credit Card,C025,North
+1026,2024-01-09,09:00:00,Sugar,Pantry,5,1.0,5.0,Cash,C026,South
+1027,2024-01-09,10:30:00,Yogurt,Dairy,6,0.8,4.8,Debit Card,C027,East
+1028,2024-01-09,11:00:00,Steak,Meat,3,8.0,24.0,Credit Card,C028,West
+1029,2024-01-10,09:30:00,Coffee,Pantry,2,4.0,8.0,Cash,C029,North
+1030,2024-01-10,10:15:00,Cereal,Pantry,4,2.5,10.0,Debit Card,C030,South
